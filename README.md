@@ -50,7 +50,7 @@ This repository contains useful Excel techniques, formulas, and functions to hel
   - SUMIF – Sums values that meet a condition.
   - SUMIFS – Sums values based on multiple conditions.
 
-** Date Formatting & Data Validation**
+**Date Formatting & Data Validation**
   - Date Format – Ensures dates are in a proper format.
   - Data Validation – Restricts input values to predefined criteria.
 
