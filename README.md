@@ -4,7 +4,7 @@ This repository contains useful Excel techniques, formulas, and functions to hel
 
 ## Features Covered
 
-** Basic Formulas **
+ **Basic Formulas** 
 
   - SUM – Adds a range of numbers.
   - AVERAGE – Calculates the mean of a range.
